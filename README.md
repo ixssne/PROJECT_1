@@ -1,1 +1,2 @@
 # PROJECT_1-
+Purpose: The To-Do List web app helps users keep track of their daily, weekly, or long-term tasks. It allows them to create new tasks, mark them as completed, and delete tasks that are no longer needed.
